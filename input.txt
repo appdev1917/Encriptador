@@ -1,0 +1,16 @@
+Al encriptar se borra el archivo original y se sustituye por el archivo encriptado cuyo formato es ".aes". 
+Solamente se puede desencriptar dicho archivo sabiendo su contraseña.
+
+Ej: archivo.txt → archivo.txt.aes (encriptado)
+
+Recomendaciones:
+
+• Utilice una contraseña segura, de un mínimo de 8 caracteres donde figuren números y letras en minúscula y mayúsculas, pudiendo incluir otro tipo de caracteres o símbolos.
+
+• La contraseña no debe contener datos de su vida cotidiana (nombres, calles, fechas)
+
+• Recuerde la contraseña pero no la deje escrita en ningún medio físico o digital. 
+
+• No comparta la contraseña con otras personas que no deben acceder a los datos del archivo, la seguridad de los datos debe separarse de nuestras confianzas personales.
+
+• Es recomendable no realizar la encriptación directamente desde una unidad de USB o desde un disco duro externo. 
